@@ -54,7 +54,7 @@ header {
     background-image: linear-gradient(
         rgba(28, 56, 63, 0.753),
         rgba(4, 5, 7, 0.897)
-    ), url(Images/tidy-img-2.jpg);
+    ), url(tidy-img-2.jpg);
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
